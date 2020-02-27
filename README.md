@@ -3,7 +3,7 @@
 This project is a realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages. 
 
 
-![Chat Screenshot](https://i.imgur.com/vROYgFJ.png)
+![Chat Screenshot](https://i.imgur.com/dwyHJGz.png)
 
 
 ## Technologies Used
